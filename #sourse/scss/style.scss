@@ -305,6 +305,11 @@ a {
 
     &__video {
         position: absolute;
+
+        img {
+            width: 100%;
+            max-width: 1290px;
+        }
     }
 }
 

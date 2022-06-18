@@ -329,6 +329,10 @@ a {
 .about__video {
   position: absolute;
 }
+.about__video img {
+  width: 100%;
+  max-width: 1290px;
+}
 
 .title {
   font-family: "Jacques Francois";
